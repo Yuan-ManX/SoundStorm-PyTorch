@@ -1,2 +1,3 @@
-# SoundStorm-PyTorch
+# SoundStorm PyTorch
+
 PyTorch implementation of SoundStorm
