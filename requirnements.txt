@@ -1,1 +1,8 @@
-
+torch
+einops
+beartype
+spear_tts_pytorch
+audiolm_pytorch
+gateloop_transformer
+tqdm
+accelerate
